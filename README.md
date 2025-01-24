@@ -29,3 +29,5 @@ How to Use
 
 5. reoprt looks like this
 6. ![Capture](https://github.com/user-attachments/assets/515a3e1c-c1fa-4f4a-8c2c-581f732b098a)
+
+7. you can build the script as a sandalone exe use pyinsaller 
